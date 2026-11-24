@@ -105,5 +105,6 @@
         </div>
     </main>
 </div>
+@include('demo-banner')
 </body>
 </html>
