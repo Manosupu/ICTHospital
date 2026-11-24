@@ -376,6 +376,7 @@ table i {
 </head>
 
 <body @if(Request::is('student/create-file')) @else class="animsition" @endif>
+        @include('demo-banner')
 <!-- topbar starts -->
 
 <div class="page-wrapper">
